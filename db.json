@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "role": "Moderator"
+    },
+    {
+      "name": "hehe",
+      "email": "dsncsjdnc@gm.co",
+      "role": "cndc",
+      "id": "d52c"
+    },
+    {
+      "id": "a662",
+      "name": "12",
+      "email": "fdfdrfdf@1.co",
+      "role": "vgvhvgvg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1200,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Shoes",
+      "price": 80,
+      "category": "Footwear"
+    },
+    {
+      "id": "0657",
+      "name": "cricket bat",
+      "price": "10000",
+      "category": "play"
+    }
+  ]
+}
